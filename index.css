@@ -32,3 +32,21 @@ body {
     background-position: center;
    
 }
+
+.main_title {
+    text-align: center;   
+    background-image: linear-gradient(to top, #dbdcd70%, #dddcd 24%, #e2c9cc 30%, #e7627d 46%, #b8235a 59%, #801357 71%, #3b1635 84%, #1c1a27 100%);
+    color: white;
+}
+
+#row1 {
+    text-align: center;
+}
+
+#row1-section2 {
+    border: solid 1px  red;
+    width: 600px;
+    margin: 0 auto;
+    background-color: lightskyblue;
+    color: white;
+}
